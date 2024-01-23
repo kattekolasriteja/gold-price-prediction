@@ -1,1 +1,2 @@
-# gold-price-prediction
+# gold-price-prediction 
+## Algorithm : Random Forest Regressor
